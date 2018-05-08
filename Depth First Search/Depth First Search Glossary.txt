@@ -1,0 +1,8 @@
+
+Graph - Set of connected nodes.
+Stack - Data structure that holds items like a dishwasher would stack plates. The last item on the stack is the first item off.
+Pop - Stack operation that returns the item at the top of the stack.
+Push - Place item at the top of the stack.
+Visited - Set of nodes that have been examined.
+Neighbors - Nodes that have a direct path to one another.
+Goal - Node the algorithm is looking for.
